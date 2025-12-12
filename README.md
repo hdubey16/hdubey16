@@ -1,5 +1,5 @@
 # 🟩 Contribution Overview
-![Contributions](https://github-contributions-api.deno.dev/hdubey16.svg?theme=green)
+![Contributions](https://github-contributions-api.deno.dev/hdubey16.svg?bg=ffffff&tc=000000&c0=ebedf0&c1=9be9a8&c2=40c463&c3=30a14e&c4=216e39)
 
 # 💫 About Me:
 I’m a developer who enjoys building things that actually work — ⚙️ fast systems, 🤖 AI-driven tools, and products that solve real problems instead of looking good only in demos. Most of my projects blend AI, backend engineering, and practical product thinking. I like understanding a system end-to-end 🔍, from how data moves to how the user interacts with it.<br><br>I learn aggressively 📚, ship quickly 🚀, and I’m not afraid to scrap my own work if it can be done better. When something catches my interest, I go deep until I can build with confidence. Outside my main projects, I’m usually experimenting with new tech 🧪, sharpening fundamentals, or upgrading things I’ve already built.<br><br>- 💬 Ask me about:<br>Building stuff from scratch, debugging what others couldn’t, or turning chaotic ideas into working products.<br><br>- ⚡ Fun fact:<br>I move fast, break things, fix them properly, and then move even faster.
