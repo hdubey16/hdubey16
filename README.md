@@ -19,9 +19,7 @@ I’m a developer who enjoys building things that actually work — ⚙️ fast 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hdubey16&limit=5&theme=merko&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=hdubey16&repo=AI-and-ML-Project-AICTE&theme=merko)](https://github.com/hdubey16/AI-and-ML-Project-AICTE)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hdubey16&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
