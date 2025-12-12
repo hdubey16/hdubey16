@@ -1,3 +1,6 @@
+# 🟩 Contribution Heatmap
+![Heatmap](https://github-readme-streak-stats.herokuapp.com/?user=hdubey16&theme=dark&hide_border=true)
+
 # 💫 About Me:
 I’m a developer who enjoys building things that actually work — ⚙️ fast systems, 🤖 AI-driven tools, and products that solve real problems instead of looking good only in demos. Most of my projects blend AI, backend engineering, and practical product thinking. I like understanding a system end-to-end 🔍, from how data moves to how the user interacts with it.<br><br>I learn aggressively 📚, ship quickly 🚀, and I’m not afraid to scrap my own work if it can be done better. When something catches my interest, I go deep until I can build with confidence. Outside my main projects, I’m usually experimenting with new tech 🧪, sharpening fundamentals, or upgrading things I’ve already built.<br><br>- 💬 Ask me about:<br>Building stuff from scratch, debugging what others couldn’t, or turning chaotic ideas into working products.<br><br>- ⚡ Fun fact:<br>I move fast, break things, fix them properly, and then move even faster.
 
